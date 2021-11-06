@@ -4,5 +4,7 @@ Allows users to search, add, bookmark recipes using API + unique key.
 
 Demo: https://forkifiedv1.netlify.app
 
+*construscted with local git repo and then posted*
+
 Ryan Pinto
 ryan.yuri357@gmail.com
