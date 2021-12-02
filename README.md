@@ -1,10 +1,11 @@
-# Forkify 1.0
-Classic JS/HTML/CSS SPA
-Allows users to search, add, bookmark recipes using API + unique key.
+# Forkify - eCookbook Web App
 
-Demo: https://forkifiedv1.netlify.app
+## JavaScript/ES6+ Single Page Application, HTML, CSS
+### Allows users to search recipes from public API accessing over 1,00,000 recipes.
+### Bookmarks using local storage
+### Add private recipes using developer key.
 
-*construscted with local git repo and then posted*
+## Demo on Netlify:
+### https://forkifiedv1.netlify.app
+### API documentation / Create your own uniqe API key: http://forkify-api.herokuapp.com/v2
 
-Ryan Pinto
-ryan.yuri357@gmail.com
