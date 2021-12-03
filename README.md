@@ -10,3 +10,5 @@ https://forkifiedv1.netlify.app
 ### API documentation / Create your own uniqe API key: 
 http://forkify-api.herokuapp.com/v2
 
+Update "Forkify1.0/src/js/config.js" file, "KEY" value
+
